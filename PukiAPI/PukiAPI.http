@@ -1,0 +1,6 @@
+@PukiAPI_HostAddress = http://localhost:5276
+
+GET {{PukiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
